@@ -1,1 +1,1 @@
-# Power BI Dashboard Prject with SQL and DAX
+# This is a Power BI Dashboard Project with SQL and DAX
